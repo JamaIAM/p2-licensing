@@ -6,7 +6,7 @@
 
 <h1>Fully Provisioning Accounts with P2 Licenses for Users (Azure)</h1>
 
-This tutorial outlines the process of fully provisioning user accounts, assigning created users a P2 license in Entra ID.<br />
+This tutorial outlines the process of fully provisioning user accounts, assigning created users a P2 license in Entra ID, performed on my computer.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -19,13 +19,13 @@ This tutorial outlines the process of fully provisioning user accounts, assignin
 <h2>Assigned Licenses</h2>
 
 <p>
-  <img width="1404" height="709" alt="image" src="https://github.com/user-attachments/assets/b56dd5be-9d99-455c-971b-87b868587458" />
+  <img width="689" height="549" alt="Screenshot 2026-06-28 at 6 25 27 PM" src="https://github.com/user-attachments/assets/9fba3895-8863-41ed-bc5b-c6585cdfdd75" />
 </p>
-<p>Assigned P2 license to user Chris Walker.</p>
+<p>Assigned Microsoft Entra ID P2 license to client Chris Greene.</p>
 <br />
 
 <p>
-  <img width="1441" height="735" alt="image" src="https://github.com/user-attachments/assets/39cc0299-8264-4329-abc8-4323398beba4" />
+  <img width="698" height="431" alt="Screenshot 2026-06-28 at 6 26 01 PM" src="https://github.com/user-attachments/assets/5b602360-3358-4253-a1f7-c584ac443006" />
 </p>
-<p>Assigned P2 license to user Jordan Lee.</p>
+<p>Assigned P2 license to client Jordan Lee.</p>
 <br />
