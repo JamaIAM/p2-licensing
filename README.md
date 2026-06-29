@@ -14,7 +14,7 @@ This tutorial outlines the process of fully provisioning user accounts, assignin
 
 <h2>Operating Systems Used</h2>
 
-- Windows 11
+- macOS Sequoia
 
 <h2>Assigned Licenses</h2>
 
